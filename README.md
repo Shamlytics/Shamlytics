@@ -1,9 +1,16 @@
-## Hi there 👋
 
+# Hi there 👋, I'm Shameel!  
 
-🔍 Passionate about Data Science, Machine Learning, and Insurance Analytics
-📖 Currently exploring Machine Learning with R and enhancing my expertise in Python, SQL, and Tableau
-🤝 Open to collaborations on Data Science projects, fraud detection, predictive modeling, and data visualization
-💡 Interests: AI-driven risk assessment, actuarial science, and big data in the insurance industry
-📫 Let's connect! Reach me on LinkedIn or drop me a message
+🚀 **Data Scientist | Machine Learning Enthusiast | Insurance Analytics**  
+
+- 🧠 Currently exploring **Machine Learning with R**  
+- 💡 Passionate about **Fraud Detection, Predictive Modeling & AI**  
+- 📊 Working with **Python, R, SQL & Tableau**  
+- 🤝 Open to **collaborations on Data Science projects**  
+- 🏆 **Fun fact:** I love automating processes & seeing them work efficiently!  
+
+📫 **Let's connect:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ShamS)  
+
 
