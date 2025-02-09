@@ -4,7 +4,7 @@
 🚀 **Data Scientist | Machine Learning Enthusiast | Insurance Analytics**  
 
 - 🧠 Currently exploring **Machine Learning with R**  
-- 💡 Passionate about **Fraud Detection, Predictive Modeling & AI**  
+- 💡 Passionate about **Data Science & Automation, System optimisation & Efficiency, AI**  
 - 📊 Working with **Python, R, SQL & Tableau**  
 - 🤝 Open to **collaborations on Data Science projects**  
 - 🏆 **Fun fact:** I love automating processes & seeing them work efficiently!  
